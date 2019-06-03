@@ -1,0 +1,14 @@
+.top{
+	background-color: green;
+	height: 100px;
+}
+.border{
+	border-radius: 100px;
+}
+.but1{
+ 	text-align: right;
+}
+.inpt{
+	padding-left: 250px;
+	padding-bottom: 50px;
+}
